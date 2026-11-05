@@ -5,7 +5,7 @@ Medizindidaktik & Digital Health · MSH Medical School Hamburg · Hamburg
 Ich baue KI-Werkzeuge für meine Lehre selbst – mit Coding-Assistenten, LLM-APIs (Claude, Gemini) und lokalen Modellen; Python/Flask.
 Gemeinsames Muster: **Das Modell schlägt vor, der Mensch entscheidet – und jede KI-Ausgabe bleibt prüfbar.**
 
-Die Werkzeuge laufen lokal. Code und Live-Demo zeige ich gern im Gespräch.
+Die Werkzeuge laufen lokal.
 
 ---
 
